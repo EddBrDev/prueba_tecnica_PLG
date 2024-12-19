@@ -1,0 +1,21 @@
+<div>
+  <h2>Lista de Clientes</h2>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Nombre</th>
+        <th>País de Origen</th>
+        <th>Teléfono</th>
+        <th>País</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let cliente of clientes$ | async">
+        <td>{{ cliente.id_cliente }}</td>
+        <td>{{ cliente.cliente }}</td>
+        <td>{{ cliente.telefono | formatoTelefono }}</td>
+        <td>{{ cliente.pais }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

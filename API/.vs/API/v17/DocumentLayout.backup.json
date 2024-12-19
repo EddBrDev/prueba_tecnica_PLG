@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Evalua Consultores Chile\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C95F59C2-BC0B-4DD2-AB4D-45467FEB7568}|API\\API.csproj|d:\\evalua consultores chile\\api\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C95F59C2-BC0B-4DD2-AB4D-45467FEB7568}|API\\API.csproj|solutionrelative:api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95F59C2-BC0B-4DD2-AB4D-45467FEB7568}|API\\API.csproj|d:\\evalua consultores chile\\api\\api\\models\\entityframework\\paisef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95F59C2-BC0B-4DD2-AB4D-45467FEB7568}|API\\API.csproj|solutionrelative:api\\models\\entityframework\\paisef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95F59C2-BC0B-4DD2-AB4D-45467FEB7568}|API\\API.csproj|d:\\evalua consultores chile\\api\\api\\data\\clientedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95F59C2-BC0B-4DD2-AB4D-45467FEB7568}|API\\API.csproj|solutionrelative:api\\data\\clientedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95F59C2-BC0B-4DD2-AB4D-45467FEB7568}|API\\API.csproj|d:\\evalua consultores chile\\api\\api\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95F59C2-BC0B-4DD2-AB4D-45467FEB7568}|API\\API.csproj|solutionrelative:api\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95F59C2-BC0B-4DD2-AB4D-45467FEB7568}|API\\API.csproj|d:\\evalua consultores chile\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95F59C2-BC0B-4DD2-AB4D-45467FEB7568}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95F59C2-BC0B-4DD2-AB4D-45467FEB7568}|API\\API.csproj|d:\\evalua consultores chile\\api\\api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95F59C2-BC0B-4DD2-AB4D-45467FEB7568}|API\\API.csproj|solutionrelative:api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95F59C2-BC0B-4DD2-AB4D-45467FEB7568}|API\\API.csproj|d:\\evalua consultores chile\\api\\api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95F59C2-BC0B-4DD2-AB4D-45467FEB7568}|API\\API.csproj|solutionrelative:api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API",
+              "DocumentMoniker": "D:\\Evalua Consultores Chile\\API\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "D:\\Evalua Consultores Chile\\API\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T10:03:19.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Evalua Consultores Chile\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\Evalua Consultores Chile\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:58:07.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaisEF.cs",
+              "DocumentMoniker": "D:\\Evalua Consultores Chile\\API\\API\\Models\\EntityFramework\\PaisEF.cs",
+              "RelativeDocumentMoniker": "API\\Models\\EntityFramework\\PaisEF.cs",
+              "ToolTip": "D:\\Evalua Consultores Chile\\API\\API\\Models\\EntityFramework\\PaisEF.cs",
+              "RelativeToolTip": "API\\Models\\EntityFramework\\PaisEF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:28:14.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteData.cs",
+              "DocumentMoniker": "D:\\Evalua Consultores Chile\\API\\API\\Data\\ClienteData.cs",
+              "RelativeDocumentMoniker": "API\\Data\\ClienteData.cs",
+              "ToolTip": "D:\\Evalua Consultores Chile\\API\\API\\Data\\ClienteData.cs",
+              "RelativeToolTip": "API\\Data\\ClienteData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:39:58.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\Evalua Consultores Chile\\API\\API\\Data\\Conexion.cs",
+              "RelativeDocumentMoniker": "API\\Data\\Conexion.cs",
+              "ToolTip": "D:\\Evalua Consultores Chile\\API\\API\\Data\\Conexion.cs",
+              "RelativeToolTip": "API\\Data\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:59:44.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "D:\\Evalua Consultores Chile\\API\\API\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\Evalua Consultores Chile\\API\\API\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "API\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:56:54.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Evalua Consultores Chile\\API\\API\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Cliente.cs",
+              "ToolTip": "D:\\Evalua Consultores Chile\\API\\API\\Models\\Cliente.cs",
+              "RelativeToolTip": "API\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:51:32.962Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
